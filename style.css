@@ -1,0 +1,30 @@
+*
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: #1F2937;
+    line-height: 50px;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: #10B981;
+}
+
+p{
+    color: white;
+}
+
+button{
+    background-color: #10B981;
+    margin: 50px;
+    display: ;
+}
+
+button1{
+    background-color: #1F2937;
+    color: white;
+}
